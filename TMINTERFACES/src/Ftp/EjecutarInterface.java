@@ -10,7 +10,7 @@ public class EjecutarInterface {
 	/**
 	 * @param args
 	 * @throws SQLException 
-	 * @throws IOException 
+	 * @throws IOException ss
 	 */
 	public static void main(String[] args) throws SQLException, IOException {
 		
