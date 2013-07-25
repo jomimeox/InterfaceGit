@@ -15,7 +15,7 @@ public class EjecutarInterface {
 	public static void main(String[] args) throws SQLException, IOException {
 		
 		
-//		Hola
+//		Habla ALAN !!!
       ConectarFTP.pdescargarctocktoftptm();
       CargarArchivo.pcargarBodegasFTP();
 		String rs=InsertarTablasMaximo.pvalidar_registrarMaximo();
