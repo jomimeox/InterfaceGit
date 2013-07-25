@@ -14,7 +14,7 @@ public class EjecutarInterface {
 	 */
 	public static void main(String[] args) throws SQLException, IOException {
 		
-     /* ConectarFTP.pdescargarctocktoftptm();
+      ConectarFTP.pdescargarctocktoftptm();
       CargarArchivo.pcargarBodegasFTP();
 		String rs=InsertarTablasMaximo.pvalidar_registrarMaximo();
 					
@@ -27,7 +27,7 @@ public class EjecutarInterface {
          Logger log = loger.getLog();
          
          log.debug(rs);
-    }*/
+    }
      System.out.println("Proceso Realizado");
     	 
     
